@@ -1,0 +1,215 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+	
+	/*header-2 css-start*/
+	.header-2 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	.header-2 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-2 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-2 .burger-menu {
+		top: 49px;
+	}
+	/*header-2 css-close*/
+	
+}
+@media screen and (min-width:320px) and (max-width:575.98px) and (orientation:landscape) {}
+@media screen and (min-width:576px) and (max-width:767.98px) {
+	
+	/*header-1 css-start*/
+	.header-1 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-1 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-1 .burger-menu {
+		top: 49px;
+	}
+	/*header-1 css-close*/
+	/*header-2 css-start*/
+	.header-2 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	.header-2 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-2 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-2 .burger-menu {
+		top: 49px;
+	}
+	/*header-2 css-close*/
+	
+}
+@media screen and (min-width:576px) and (max-width:767.98px) and (orientation:landscape) {}
+@media (min-width:768px) and (max-width:991.98px) {
+	/*header-top-bar css-start*/
+	.header-main .top-bar-right .custom li {
+		padding-right: 3px;
+		padding-left: 6px;
+	}
+	.header-1 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	/*header-top-bar css-close*/
+	/*header-1 css-start*/
+	.header-1 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-1 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-1 .burger-menu {
+		top: 49px;
+	}
+	/*header-1 css-close*/
+	/*header-2 css-start*/
+	.header-2 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	.header-2 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-2 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-2 .burger-menu {
+		top: 49px;
+	}
+	/*header-2 css-close*/
+	
+}
+@media screen and (min-width:768px) and (max-width:991.98px) and (orientation:landscape) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header-top-bar css-start*/
+	.header-main .top-bar-right .custom li {
+		padding-right: 3px;
+		padding-left: 6px;
+	}
+	.header-1 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	/*header-top-bar css-close*/
+	/*header-1 css-start*/
+	.header-1 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	.header-1 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-1 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-1 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-1 .burger-menu {
+		top: 49px;
+	}
+	/*header-1 css-close*/
+	/*header-2 css-start*/
+	.header-2 .sb-menu > ul.menu-items {
+		display: none;
+		float: inherit;
+	}
+	.header-2 .sb-menu ul.auth-elements {
+		float: inherit;
+	}
+	.header-2 .sb-menu > ul {
+		padding: 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li:last-child > a {
+		line-height: 26px;
+		vertical-align: middle;
+	}
+	.sb-header .logo {
+		text-align: left;
+		padding: 30px 0;
+	}
+	.header-2 .sb-menu > ul.auth-elements > li.submit-btn {
+		margin-bottom: 20px;
+	}
+	.header-2 .burger-menu {
+		top: 49px;
+	}
+	/*header-2 css-close*/
+	
+}
